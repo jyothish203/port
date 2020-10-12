@@ -7,11 +7,21 @@
   pointer-events: none;
 }
 
+.typingeffect
+{
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 30px;
+  
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #282c34;
@@ -36,3 +46,18 @@
     transform: rotate(360deg);
   }
 }
+.herof{
+  font-size: 10rem ;
+  
+}
+
+
+.profilepic{ 
+  
+  
+  Align-Items: center;
+  Justify-Content: centre;
+  border-radius: 50%;
+  width: 400px;
+  margin: 30px;
+  }
